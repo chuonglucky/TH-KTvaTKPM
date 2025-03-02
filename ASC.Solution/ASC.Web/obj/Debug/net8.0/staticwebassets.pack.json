@@ -1,303 +1,303 @@
 {
   "Files": [
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASC.Web.bundle.scp.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASC.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\ASC.Web.bundle.scp.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.css",
       "PackagePath": "staticwebassets\\css\\materialize.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.min.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.min.css",
       "PackagePath": "staticwebassets\\css\\materialize.min.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\css\\site.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\favicon.ico",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\fonts\\background1.jpg",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\fonts\\background1.jpg",
       "PackagePath": "staticwebassets\\fonts\\background1.jpg"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\fonts\\background2.jpg",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\fonts\\background2.jpg",
       "PackagePath": "staticwebassets\\fonts\\background2.jpg"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\fonts\\background3.jpg",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\fonts\\background3.jpg",
       "PackagePath": "staticwebassets\\fonts\\background3.jpg"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background1.jpg",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background1.jpg",
       "PackagePath": "staticwebassets\\images\\background1.jpg"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background2.jpg",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background2.jpg",
       "PackagePath": "staticwebassets\\images\\background2.jpg"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background3.jpg",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background3.jpg",
       "PackagePath": "staticwebassets\\images\\background3.jpg"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\images\\logo.png",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\images\\pexels-mikebirdy-170811.jpg",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\pexels-mikebirdy-170811.jpg",
       "PackagePath": "staticwebassets\\images\\pexels-mikebirdy-170811.jpg"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\js\\init.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\js\\init.js",
       "PackagePath": "staticwebassets\\js\\init.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\js\\materialize.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\js\\materialize.js",
       "PackagePath": "staticwebassets\\js\\materialize.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\js\\materialize.min.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\js\\materialize.min.js",
       "PackagePath": "staticwebassets\\js\\materialize.min.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\js\\site.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
