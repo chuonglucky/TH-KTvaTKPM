@@ -1,0 +1,13 @@
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.deps.json
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.pdb
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.AssemblyReference.cache
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfoInputs.cache
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfo.cs
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.sourcelink.json
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll

@@ -4,35 +4,47 @@ using ASC.Web.Data;
 using ASC.Web.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+// Cấu hình logging
+builder.Logging.AddConsole();
+
+// Lấy chuỗi kết nối từ appsettings.json
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+    ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+
+// Thêm DbContext vào DI container
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
-builder.Services.AddIdentity<IdentityUser, IdentityRole>((options) =>
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
 {
     options.User.RequireUniqueEmail = true;
-}).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+})
+.AddEntityFrameworkStores<ApplicationDbContext>()
+.AddDefaultTokenProviders();
+
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
-builder.Services.AddScoped<DbContext, ApplicationDbContext>();
 
+// Cấu hình session
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession();
 
-builder.Services.AddOptions();
+// Cấu hình ApplicationSettings
 builder.Services.Configure<ApplicationSettings>(builder.Configuration.GetSection("AppSettings"));
 
+// Đăng ký các service
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
-
-
-builder.Services.AddTransient<IEmailSender,AuthMessageSender>();
+builder.Services.AddTransient<IEmailSender, AuthMessageSender>();
 builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
-builder.Services.AddScoped<IIdentitySeed,IdentitySeed>();
+builder.Services.AddScoped<IIdentitySeed, IdentitySeed>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
 var app = builder.Build();
+
 // Apply pending migrations at startup
 using (var scope = app.Services.CreateScope())
 {
@@ -44,7 +56,7 @@ using (var scope = app.Services.CreateScope())
      ).ConfigureAwait(false);
 }
 
-// Configure the HTTP request pipeline.
+// Cấu hình HTTP request pipeline
 if (app.Environment.IsDevelopment())
 {
     app.UseMigrationsEndPoint();
@@ -52,7 +64,6 @@ if (app.Environment.IsDevelopment())
 else
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -60,6 +71,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseSession(); // Đừng quên bật session!
 
 app.UseAuthorization();
 
@@ -68,5 +80,4 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
 
-await app.RunAsync();
-
+app.Run();

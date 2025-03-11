@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\data\\migrations\\20250302143327_asc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\20250302143327_asc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\testultilities\\fakesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\testultilities\\fakesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEB2377-784D-4856-A945-A6FA1D1CB7A4}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEB2377-784D-4856-A945-A6FA1D1CB7A4}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0CE2BE-3D32-48C8-82C7-6B6C7E36687A}|ASC.Utilities\\ASC.Utilities.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.utilities\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0CE2BE-3D32-48C8-82C7-6B6C7E36687A}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578F97F9-8BDC-44BD-8811-B6E40AAE1D6A}|ASC.Tests\\ASC.Tests.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578F97F9-8BDC-44BD-8811-B6E40AAE1D6A}|ASC.Tests\\ASC.Tests.csproj|solutionrelative:asc.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578F97F9-8BDC-44BD-8811-B6E40AAE1D6A}|ASC.Tests\\ASC.Tests.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.tests\\asc.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{578F97F9-8BDC-44BD-8811-B6E40AAE1D6A}|ASC.Tests\\ASC.Tests.csproj|solutionrelative:asc.tests\\asc.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C414848C-47BC-4F41-934D-C0278F8A36A3}|ASC.Model\\ASC.Model.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C414848C-47BC-4F41-934D-C0278F8A36A3}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CEB2377-784D-4856-A945-A6FA1D1CB7A4}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.dataaccess\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,6 +55,10 @@
       "RelativeMoniker": "D:0:0:{C414848C-47BC-4F41-934D-C0278F8A36A3}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C414848C-47BC-4F41-934D-C0278F8A36A3}|ASC.Model\\ASC.Model.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.model\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C414848C-47BC-4F41-934D-C0278F8A36A3}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -35,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4511716-96E0-4297-9DE4-F5F04951C653}|ASC.Business\\ASC.Business.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4511716-96E0-4297-9DE4-F5F04951C653}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CEB2377-784D-4856-A945-A6FA1D1CB7A4}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CEB2377-784D-4856-A945-A6FA1D1CB7A4}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CEB2377-784D-4856-A945-A6FA1D1CB7A4}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,20 +99,8 @@
       "RelativeMoniker": "D:0:0:{C414848C-47BC-4F41-934D-C0278F8A36A3}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\asc.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\asc.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C414848C-47BC-4F41-934D-C0278F8A36A3}|ASC.Model\\ASC.Model.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C414848C-47BC-4F41-934D-C0278F8A36A3}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA0CE2BE-3D32-48C8-82C7-6B6C7E36687A}|ASC.Utilities\\ASC.Utilities.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.utilities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -119,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -133,14 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\data\\migrations\\20250228074919_fgd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\20250228074919_fgd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|d:\\th-kientrucvathietkephanmem\\th-ktvatkpm\\asc.solution\\asc.web\\data\\migrations\\20250228075433_fbgbdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA96AD7-7AB9-4CD2-8E86-85B8AECB9670}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\20250228075433_fbgbdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -179,43 +175,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250302143327_ASC.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302143327_ASC.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\20250302143327_ASC.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302143327_ASC.cs",
-              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\20250302143327_ASC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FakeSession.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\TestUltilities\\FakeSession.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\TestUltilities\\FakeSession.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\TestUltilities\\FakeSession.cs",
+              "RelativeToolTip": "ASC.Web\\TestUltilities\\FakeSession.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T14:33:27.661Z",
+              "WhenOpened": "2025-03-11T10:49:18.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Utilities\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\SessionExtensions.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Utilities\\SessionExtensions.cs",
+              "RelativeToolTip": "ASC.Utilities\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:45:36.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASC.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:10:10.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Tests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "ASC.Tests\\HomeControllerTests.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Tests\\HomeControllerTests.cs",
+              "RelativeToolTip": "ASC.Tests\\HomeControllerTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:49:40.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ASC.Model\\Models\\Product.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\Product.cs",
-              "RelativeToolTip": "ASC.Model\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "RelativeToolTip": "ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T14:10:26.142Z"
+              "WhenOpened": "2025-02-20T06:55:39.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\UnitOfWork.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\UnitOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\UnitOfWork.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:18:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Program.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Program.cs",
               "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Program.cs",
               "RelativeToolTip": "ASC.Web\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T06:58:00.983Z"
+              "WhenOpened": "2025-02-20T06:58:00.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:21:24.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ASC.Tests.csproj",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Tests\\ASC.Tests.csproj",
+              "RelativeDocumentMoniker": "ASC.Tests\\ASC.Tests.csproj",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Tests\\ASC.Tests.csproj",
+              "RelativeToolTip": "ASC.Tests\\ASC.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T07:01:36.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IdentitySeed.cs",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\IdentitySeed.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Data\\IdentitySeed.cs",
@@ -228,236 +304,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IIdentitySeed.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\IIdentitySeed.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Data\\IIdentitySeed.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\IIdentitySeed.cs",
-              "RelativeToolTip": "ASC.Web\\Data\\IIdentitySeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:23:19.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\appsettings.json",
               "RelativeDocumentMoniker": "ASC.Web\\appsettings.json",
               "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\appsettings.json",
               "RelativeToolTip": "ASC.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-27T06:37:52.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:16:05.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ASC.Web\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:21:24.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ASC.Model.csproj",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
-              "RelativeDocumentMoniker": "ASC.Model\\ASC.Model.csproj",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
-              "RelativeToolTip": "ASC.Model\\ASC.Model.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T07:44:46.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Business\\Class1.cs",
-              "RelativeDocumentMoniker": "ASC.Business\\Class1.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Business\\Class1.cs",
-              "RelativeToolTip": "ASC.Business\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:24:58.741Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "ASC.DataAccess\\UnitOfWork.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\UnitOfWork.cs",
-              "RelativeToolTip": "ASC.DataAccess\\UnitOfWork.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:18:51.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Repository.cs",
-              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Repository.cs",
-              "RelativeToolTip": "ASC.DataAccess\\Repository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:12:49.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:11:15.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\BaseEntity.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
-              "RelativeToolTip": "ASC.Model\\BaseTypes\\BaseEntity.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:41:05.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Constants.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\Constants.cs",
-              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\Constants.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\Constants.cs",
-              "RelativeToolTip": "ASC.Model\\BaseTypes\\Constants.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:42:17.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IAuditTracker.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\IAuditTracker.cs",
-              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\IAuditTracker.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\IAuditTracker.cs",
-              "RelativeToolTip": "ASC.Model\\BaseTypes\\IAuditTracker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:43:09.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MasterDataValue.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\MasterDataValue.cs",
-              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataValue.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\MasterDataValue.cs",
-              "RelativeToolTip": "ASC.Model\\Models\\MasterDataValue.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:09:10.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MasterDataKey.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\MasterDataKey.cs",
-              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataKey.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\MasterDataKey.cs",
-              "RelativeToolTip": "ASC.Model\\Models\\MasterDataKey.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:05:39.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ApplicationSettings.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\ApplicationSettings.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
-              "RelativeToolTip": "ASC.Web\\Configuration\\ApplicationSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T06:55:39.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ASC.Web.csproj",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
-              "RelativeDocumentMoniker": "ASC.Web\\ASC.Web.csproj",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
-              "RelativeToolTip": "ASC.Web\\ASC.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-28T07:43:04.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20250228074919_fgd.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250228074919_fgd.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\20250228074919_fgd.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250228074919_fgd.cs",
-              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\20250228074919_fgd.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T07:49:20.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "20250228075433_fbgbdv.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250228075433_fbgbdv.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\20250228075433_fbgbdv.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250228075433_fbgbdv.cs",
-              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\20250228075433_fbgbdv.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T07:54:34.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T07:24:55.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "ServiceRequest.cs",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "ASC.Model\\Models\\ServiceRequest.cs",
@@ -465,11 +325,181 @@
               "RelativeToolTip": "ASC.Model\\Models\\ServiceRequest.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:44:53.485Z"
+              "WhenOpened": "2025-02-27T06:44:53.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IIdentitySeed.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\IIdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\IIdentitySeed.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\IIdentitySeed.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\IIdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:23:19.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:16:05.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\Product.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\Product.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:10:26.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ASC.Model.csproj",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+              "RelativeDocumentMoniker": "ASC.Model\\ASC.Model.csproj",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+              "RelativeToolTip": "ASC.Model\\ASC.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T07:44:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "ASC.Business\\Class1.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Business\\Class1.cs",
+              "RelativeToolTip": "ASC.Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:24:58.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Repository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:12:49.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:11:15.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:41:05.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\Constants.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\Constants.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\Constants.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:42:17.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuditTracker.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\IAuditTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:43:09.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "MasterDataValue.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:09:10.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MasterDataKey.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\MasterDataKey.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataKey.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Model\\Models\\MasterDataKey.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDataKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:05:39.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:24:55.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Utilities\\Class1.cs",
               "RelativeDocumentMoniker": "ASC.Utilities\\Class1.cs",
@@ -477,35 +507,25 @@
               "RelativeToolTip": "ASC.Utilities\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T06:26:39.923Z"
+              "WhenOpened": "2025-02-27T06:26:39.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T09:01:20.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "_SecureLayout.cshtml",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
               "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "ViewState": "AgIAAFsAAAAAAAAAAIBJwGwAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAOBvwGwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T08:56:58.78Z"
+              "WhenOpened": "2025-02-20T08:56:58.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "_MasterLayout.cshtml",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
@@ -513,47 +533,51 @@
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T08:32:44.478Z"
+              "WhenOpened": "2025-02-20T08:32:44.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADIAAAAAAAAAAEBVwFkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAABBywFkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T07:01:06.108Z"
+              "WhenOpened": "2025-02-20T07:01:06.108Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ASC.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBJwC0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAOBvwC0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T08:42:07.608Z"
+              "WhenOpened": "2025-02-20T08:42:07.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "style.css",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\style.css",
               "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
               "RelativeToolTip": "ASC.Web\\wwwroot\\css\\style.css",
-              "ViewState": "AgIAADMAAAAAAAAAAIBZwFYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAACBzwFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-20T08:43:26.65Z"
+              "WhenOpened": "2025-02-20T08:43:26.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ISmsSender.cs",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Services\\ISmsSender.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Services\\ISmsSender.cs",
@@ -561,23 +585,12 @@
               "RelativeToolTip": "ASC.Web\\Services\\ISmsSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:53:44.044Z"
+              "WhenOpened": "2025-02-20T07:53:44.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ASC.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ASC.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:10:10.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IEmailSender.cs",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Services\\IEmailSender.cs",
@@ -585,11 +598,12 @@
               "RelativeToolTip": "ASC.Web\\Services\\IEmailSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:53:24.006Z"
+              "WhenOpened": "2025-02-20T07:53:24.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "AuthMessageSender.cs",
               "DocumentMoniker": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\Services\\AuthMessageSender.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Services\\AuthMessageSender.cs",
@@ -597,7 +611,8 @@
               "RelativeToolTip": "ASC.Web\\Services\\AuthMessageSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:52:59.531Z"
+              "WhenOpened": "2025-02-20T07:52:59.531Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -302,3 +302,10 @@ D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.DataAccess.pdb
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Model.pdb
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

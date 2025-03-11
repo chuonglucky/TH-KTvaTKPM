@@ -1,0 +1,13 @@
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
