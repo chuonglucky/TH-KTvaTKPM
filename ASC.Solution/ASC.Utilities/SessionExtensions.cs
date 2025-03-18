@@ -1,21 +1,25 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Newtonsoft.Json;
+using System.Text;
 using System.Text.Json;
 
 public static class SessionExtensions
 {
-    public static void SetSession<T>(this ISession session, string key, T value)
+    public static void SetSession(this ISession session, string key, object value)
     {
-        var jsonData = JsonSerializer.Serialize(value);
-        session.Set(key, System.Text.Encoding.UTF8.GetBytes(jsonData));
+        session.Set(key, Encoding.ASCII.GetBytes(JsonConvert.SerializeObject(value)));
     }
 
-    public static T? GetSession<T>(this ISession session, string key)
+    public static T GetSession<T>(this ISession session, string key)
     {
-        if (session.TryGetValue(key, out byte[] data))
+        byte[] value;
+        if (session.TryGetValue(key, out value))
         {
-            var jsonData = System.Text.Encoding.UTF8.GetString(data);
-            return JsonSerializer.Deserialize<T>(jsonData);
+            return JsonConvert.DeserializeObject<T>(Encoding.ASCII.GetString(value));
         }
-        return default;
+        else
+        {
+            return default(T);
+        }
     }
 }

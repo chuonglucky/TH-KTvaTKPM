@@ -46,3 +46,12 @@ button.accept-policy {
   white-space: nowrap;
   line-height: 60px;
 }
+.collapsible-header {
+    color: black !important; /* Đổi màu chữ */
+    font-weight: bold; /* Tùy chỉnh độ đậm */
+}
+
+    .collapsible-header i {
+        color: black !important; /* Đổi màu icon */
+    }
+

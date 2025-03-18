@@ -1,4 +1,4 @@
-﻿using ASC.DataAccess;
+using ASC.DataAccess;
 using ASC.Solution.Configuration;
 using ASC.Web.Data;
 using ASC.Web.Services;
@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddConfig(builder.Configuration).AddMyDependencyGroup();
 // Cấu hình logging
 builder.Logging.AddConsole();
 
@@ -18,13 +18,6 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 // Thêm DbContext vào DI container
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
-
-builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
-{
-    options.User.RequireUniqueEmail = true;
-})
-.AddEntityFrameworkStores<ApplicationDbContext>()
-.AddDefaultTokenProviders();
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
@@ -42,9 +35,14 @@ builder.Services.AddTransient<IEmailSender, AuthMessageSender>();
 builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
 builder.Services.AddScoped<IIdentitySeed, IdentitySeed>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+// Cấu hình ApplicationSettings
+builder.Services.Configure<ApplicationSettings>(builder.Configuration.GetSection("AppSettings"));
 
 var app = builder.Build();
-
+if (app.Environment.IsDevelopment())
+{
+    app.UseDeveloperExceptionPage();
+}
 // Apply pending migrations at startup
 using (var scope = app.Services.CreateScope())
 {
@@ -69,15 +67,25 @@ else
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
 app.UseSession(); // Đừng quên bật session!
 
+
 app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "areaRoute",
+    pattern: "{area:exists}/{controller=Home}/{action=Index}");
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
 
+using (var scope = app.Services.CreateScope())
+{
+    var navigationCacheOperations = scope.ServiceProvider.GetRequiredService<InavigationCacheOperations>();
+    await navigationCacheOperations.CreateNavigationCacheAsync();
+}
 app.Run();
+

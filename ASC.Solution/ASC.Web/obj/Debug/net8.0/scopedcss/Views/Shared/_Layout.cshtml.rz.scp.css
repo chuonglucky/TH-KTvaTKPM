@@ -46,3 +46,12 @@ button.accept-policy[b-i2fwyaqin7] {
   white-space: nowrap;
   line-height: 60px;
 }
+.collapsible-header[b-i2fwyaqin7] {
+    color: black !important; /* Đổi màu chữ */
+    font-weight: bold; /* Tùy chỉnh độ đậm */
+}
+
+    .collapsible-header i[b-i2fwyaqin7] {
+        color: black !important; /* Đổi màu icon */
+    }
+
