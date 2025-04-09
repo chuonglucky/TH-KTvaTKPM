@@ -17,7 +17,8 @@ namespace ASC.Web.Data
             {
                 try
                 {
-                    if (!roleManager.RoleExistsAsync(role).Result)
+                    if(!await roleManager.RoleExistsAsync(role))
+
                     {
                         IdentityRole storageRole = new IdentityRole
                         {

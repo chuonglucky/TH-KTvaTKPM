@@ -7,7 +7,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddConfig(builder.Configuration).AddMyDependencyGroup();
+builder.Services.AddConfig(builder.Configuration);
+builder.Services.AddMyDependencyGroup();
+
+
 // Cấu hình logging
 builder.Logging.AddConsole();
 
@@ -25,14 +28,9 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession();
 
-// Cấu hình ApplicationSettings
-builder.Services.Configure<ApplicationSettings>(builder.Configuration.GetSection("AppSettings"));
-
 // Đăng ký các service
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
-builder.Services.AddTransient<IEmailSender, AuthMessageSender>();
-builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
 builder.Services.AddScoped<IIdentitySeed, IdentitySeed>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 // Cấu hình ApplicationSettings
@@ -54,6 +52,7 @@ using (var scope = app.Services.CreateScope())
      ).ConfigureAwait(false);
 }
 
+
 // Cấu hình HTTP request pipeline
 if (app.Environment.IsDevelopment())
 {
@@ -70,7 +69,7 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseSession(); // Đừng quên bật session!
 
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
@@ -88,4 +87,6 @@ using (var scope = app.Services.CreateScope())
     await navigationCacheOperations.CreateNavigationCacheAsync();
 }
 app.Run();
+
+
 

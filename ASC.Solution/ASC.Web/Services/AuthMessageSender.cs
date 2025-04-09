@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Options;
 using MimeKit;
 using MailKit.Net.Smtp;
+using Microsoft.AspNetCore.Identity.UI.Services;
 
 namespace ASC.Web.Services
 {
@@ -33,5 +34,6 @@ namespace ASC.Web.Services
                 await client.DisconnectAsync(true);
             }
         }
+
     }
 }

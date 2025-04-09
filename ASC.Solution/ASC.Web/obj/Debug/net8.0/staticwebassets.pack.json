@@ -49,12 +49,28 @@
       "PackagePath": "staticwebassets\\images\\background3.jpg"
     },
     {
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\excel.png",
+      "PackagePath": "staticwebassets\\images\\excel.png"
+    },
+    {
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\green_tick.png",
+      "PackagePath": "staticwebassets\\images\\green_tick.png"
+    },
+    {
       "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\male.png",
+      "PackagePath": "staticwebassets\\images\\male.png"
+    },
+    {
       "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\pexels-mikebirdy-170811.jpg",
       "PackagePath": "staticwebassets\\images\\pexels-mikebirdy-170811.jpg"
+    },
+    {
+      "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\images\\red_cross.png",
+      "PackagePath": "staticwebassets\\images\\red_cross.png"
     },
     {
       "Id": "D:\\TH-KienTrucvaThietKePhanMem\\TH-KTvaTKPM\\ASC.Solution\\ASC.Web\\wwwroot\\js\\init.js",

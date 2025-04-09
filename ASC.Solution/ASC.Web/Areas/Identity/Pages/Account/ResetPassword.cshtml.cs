@@ -11,6 +11,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
+using NuGet.Common;
 
 namespace ASC.Web.Areas.Identity.Pages.Account
 {
@@ -70,8 +72,23 @@ namespace ASC.Web.Areas.Identity.Pages.Account
             public string Code { get; set; }
 
         }
+        public IActionResult OnGet(string code = null, string email = null)
+        {
+            if (code == null || email == null)
+            {
+                return BadRequest("A code and email must be supplied for password reset.");
+            }
 
-        public IActionResult OnGet(string code = null)
+            Input = new InputModel
+            {
+                Email = email,
+                Code = Encoding.UTF8.GetString(WebEncoders.Base64UrlDecode(code))
+            };
+
+            return Page();
+        }
+
+        /*public IActionResult OnGet(string code = null)
         {
             if (code == null)
             {
@@ -85,7 +102,7 @@ namespace ASC.Web.Areas.Identity.Pages.Account
                 };
                 return Page();
             }
-        }
+        }*/
 
         public async Task<IActionResult> OnPostAsync()
         {

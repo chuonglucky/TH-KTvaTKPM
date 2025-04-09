@@ -59,15 +59,12 @@ namespace ASC.Web.Areas.Identity.Pages.Account
                 // visit https://go.microsoft.com/fwlink/?LinkID=532713
                 var code = await _userManager.GeneratePasswordResetTokenAsync(user);
                 code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));
+                var encodedCode = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code)); // Mã hóa token
                 var callbackUrl = Url.Page(
-                  "/Account/ResetPassword",
-                  pageHandler: null,
-                  values: new
-                  {
-                      userId = user.Id,
-                      code = code
-                  },
-                  protocol: Request.Scheme);
+                "/Account/ResetPassword",
+                pageHandler: null,
+                values: new { area = "Identity", code = encodedCode, email = user.Email }, // Sử dụng mã đã mã hóa trong URL
+                protocol: Request.Scheme);
 
                 await _emailSender.SendEmailAsync(Input.Email, "Reset Password",
                     $"Please reset your password by clicking here: <a href='{callbackUrl}'>link</a>");
