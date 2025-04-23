@@ -26,9 +26,9 @@ p {
     color: rgba(255,255,255,.9);
 }
 
-    .parallax-container .section {
-        width: 100%;
-    }
+.parallax-container .section {
+    width: 100%;
+}
 
 @media only screen and (max-width : 992px) {
     .parallax-container .section {
@@ -51,9 +51,9 @@ p {
     padding: 0 15px;
 }
 
-    .icon-block .material-icons {
-        font-size: inherit;
-    }
+.icon-block .material-icons {
+    font-size: inherit;
+}
 
 footer.page-footer {
     margin: 0;

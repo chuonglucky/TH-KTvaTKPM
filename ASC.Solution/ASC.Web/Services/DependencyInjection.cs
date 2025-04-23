@@ -6,6 +6,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Google;
 using Microsoft.Extensions.Options;
+using ASC.Business.Interfaces;
+using ASC.Business;
 
 namespace ASC.Web.Services
 {
@@ -67,6 +69,10 @@ namespace ASC.Web.Services
             services.AddDatabaseDeveloperPageExceptionFilter();
             services.AddControllersWithViews();
 
+            //Add MasterDataOperations
+            services.AddScoped<IMasterDataOperations, MasterDataOperations>();
+            services.AddAutoMapper(typeof(ApplicationDbContext));
+            //
             return services;
         }
     }
