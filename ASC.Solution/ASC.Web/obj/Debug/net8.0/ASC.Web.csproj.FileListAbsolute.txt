@@ -460,3 +460,7 @@ D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\AutoMapper.dll
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\EPPlus.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll

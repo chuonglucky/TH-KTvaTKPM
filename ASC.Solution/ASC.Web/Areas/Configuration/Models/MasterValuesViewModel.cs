@@ -4,7 +4,7 @@
     public class MasterValuesViewModel
     {
         // 1 reference
-        public List<MasterDataValueViewModel> MasterValues { get; set; }
+        public List<MasterDataValueViewModel> ? MasterValues { get; set; }
         // 8 references
         public MasterDataValueViewModel MasterValueInContext { get; set; }
         // 2 references

@@ -132,8 +132,9 @@ namespace ASC.Business
                         masterValue.Name = value.Name;
                         _unitOfWork.Repository<MasterDataValue>().Update(masterValue);
                     }
+                    _unitOfWork.CommitTransaction();
                 }
-                _unitOfWork.CommitTransaction();
+                
                 return true;
             }
         }

@@ -7,7 +7,7 @@
 <div class="row">
     <div class="row padding-top-20px padding-left-20px padding-right-20px">
         <div class="row z-depth-3">
-            <div class="row white-text padding-left-10px blue-grey lighten-1">
+            <div class="section white-text padding-left-10px blue-grey lighten-1">
                 <h5>Master Values</h5>
             </div>
             <div class="divider"></div>
@@ -79,7 +79,7 @@
                         </div>
                     </div>
                     <div class="input-field col s8 right-align">
-                        <button class="btn waves-effect waves-light btnSubmit" type="submit" name="action">
+                        <button class="btn waves-effect waves-light btnSubmit" type="button" name="action">
                             Create
                             <i class="material-icons right">send</i>
                         </button>
@@ -240,12 +240,65 @@
                     var masterData = new Object();
                     masterData.Name = $('#MasterValueInContext_Name').val();
                     masterData.PartitionKey = $('#Select_MasterValueInContext_PartitionKey option:selected').text();
-                    masterData.RowKey = $('#MasterValueInContext_RowKey').val();
                     masterData.IsActive = $('#MasterValueInContext_IsActive').is(':checked');
-                    masterData.IsEdit = $('#IsEdit').val();
+                    if ($('#IsEdit').val())
+                        masterData.RowKey = $('#MasterValueInContext_RowKey').val();
+                    $.post('@Url.Action("MasterValues", "MasterData")',
+                        {
+                            masterValue: masterData, isEdit: $('#IsEdit').val()
+                        },
+                        function (data, status, xhr) {
+                            table.ajax.url('@Url.Action("MasterValuesByKey", "MasterData")' + '?key=' + $('#ddlMasterKeys option:selected').text());
+                            table.ajax.reload();
+                        }
+                    );
+                    $('.reset').click();
+                    $('.select-wrapper').removeClass('valid');
 
                 }
-            }
+            });
+        });
+        $('.modal').modal();
+
+        $(document).on('click', '.btnUpload', function () {
+            // Get all files from input file tag
+            var fileUpload = $('#files').get(0);
+            var files = fileUpload.files;
+
+            var data = new FormData();
+
+            // Process the file and create FormData object
+            $.each(files, function (i) {
+                data.append(files[i].name, files[i]);
+            });
+
+            // Show progress bar
+            $(".progress").removeClass("hide");
+
+            $.ajax({
+                type: "POST",
+                url: "/Configuration/MasterData/UploadExcel",
+                contentType: false,
+                processData: false,
+                data: data,
+                success: function (message) {
+                    // Hide progress bar
+                    $(".progress").addClass("hide");
+                    if (message.Success) {
+                        // Reload the page on success
+                        window.location.reload();
+                    }
+                    if (message.Error) {
+                        // Show Errors
+                        $(".divErrors").removeClass("hide");
+                        $(".errors").html("");
+                        $(".errors").html(message.Text);
+                    }
+                },
+                error: function () {
+                    // Handle error if needed
+                }
+            });
         });
     </script>
 }

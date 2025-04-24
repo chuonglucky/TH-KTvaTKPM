@@ -6,7 +6,7 @@ namespace ASC.Web.Areas.Configuration.Models
     public class MasterDataValueViewModel
     {
         // 3 references
-        public string RowKey { get; set; }
+        public string ? RowKey { get; set; }
         [Required]
         [Display(Name = "Partition Key")]
         // 2 references
