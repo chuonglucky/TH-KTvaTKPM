@@ -11,3 +11,6 @@ D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Utilities.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.Up2Date

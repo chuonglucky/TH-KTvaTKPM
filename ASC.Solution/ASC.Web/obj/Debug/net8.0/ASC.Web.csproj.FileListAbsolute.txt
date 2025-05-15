@@ -267,7 +267,6 @@ D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\obj\Debug\net8.0
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.AssemblyInfoInputs.cache
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.AssemblyInfo.cs
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.csproj.CoreCompileInputs.cache
-D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.MvcApplicationPartsAssemblyInfo.cs
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.MvcApplicationPartsAssemblyInfo.cache
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.RazorAssemblyInfo.cache
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\obj\Debug\net8.0\ASC.Web.RazorAssemblyInfo.cs

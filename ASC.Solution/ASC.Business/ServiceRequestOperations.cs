@@ -50,5 +50,12 @@ namespace ASC.Business
                 return serviceRequest;
             }
         }
+        public async Task<List<ServiceRequest>> GetServiceRequestsByRequestedDateAndStatus
+        (DateTime? requestedDate, List<string> status = null, string email = "", string serviceEngineerEmail = "")
+        {
+            var query = Queries.GetDashboardQuery(requestedDate, status, email, serviceEngineerEmail);
+            var serviceRequests = await _uniOfWork.Repository<ServiceRequest>().FindAllByQuery(query);
+            return serviceRequests.ToList();
+        }
     }
 }
