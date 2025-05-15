@@ -120,7 +120,6 @@ namespace ASC.Web.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ServiceEngineer")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Status")

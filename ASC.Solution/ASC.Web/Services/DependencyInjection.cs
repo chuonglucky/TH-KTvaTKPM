@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Authentication.Google;
 using Microsoft.Extensions.Options;
 using ASC.Business.Interfaces;
 using ASC.Business;
+using System.CodeDom;
 
 namespace ASC.Web.Services
 {
@@ -34,6 +35,12 @@ namespace ASC.Web.Services
                     options.ClientSecret = config["Google:Identity:ClientSecret"];
                 });
 
+            //services.AddDistributedMemoryCache();
+            services.AddStackExchangeRedisCache(options =>
+            {
+                options.Configuration = config.GetSection("CacheSettings:CacheConnectionString").Value;
+                options.InstanceName = config.GetSection("CacheSettings:CacheInstance").Value;
+            });
             return services;
         }
 
@@ -57,27 +64,29 @@ namespace ASC.Web.Services
             services.AddSingleton<IIdentitySeed, IdentitySeed>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
+
+            services.AddScoped<IMasterDataOperations, MasterDataOperations>();
+            services.AddAutoMapper(typeof(ApplicationDbContext));
             // Add Cache, Session
             services.AddSession();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
             services.AddDistributedMemoryCache();
             services.AddSingleton<InavigationCacheOperations, NavigationCacheOperations>();
+            services.AddScoped<IMasterDataCacheOperations, MasterDataCacheOperations>();
+            services.AddScoped<IServiceRequestOperations, ServiceRequestOperations>();
 
             // Add RazorPages, MVC
             services.AddRazorPages();
             services.AddDatabaseDeveloperPageExceptionFilter();
             services.AddControllersWithViews();
 
-            //Add MasterDataOperations
-            services.AddScoped<IMasterDataOperations, MasterDataOperations>();
-            services.AddAutoMapper(typeof(ApplicationDbContext));
-
+            //....
             services.AddControllersWithViews().AddJsonOptions(options =>
             {
                 options.JsonSerializerOptions.PropertyNamingPolicy = null;
             });
-            //
+
             return services;
         }
     }

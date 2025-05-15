@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ASC.Model.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,8 @@ namespace ASC.Business.Interfaces
 {
     public interface IServiceRequestOperations
     {
+        Task CreateServiceRequestAsync(ServiceRequest request);
+        ServiceRequest UpdateServiceRequest(ServiceRequest request);
+        Task<ServiceRequest> UpdateServiceRequestStatusAsync(string rowKey, string patitionKey, string status);
     }
 }

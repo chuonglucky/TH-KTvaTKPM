@@ -464,3 +464,9 @@ D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\EPPlus.Interfaces.dll
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\EPPlus.System.Drawing.dll
 D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\TH-KienTrucvaThietKePhanMem\TH-KTvaTKPM\ASC.Solution\ASC.Web\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
